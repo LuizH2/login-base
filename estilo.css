@@ -1,0 +1,19 @@
+input {
+    display: block;
+}
+
+
+
+
+form {
+    display: inline-block;
+    display: inline-block;
+    padding: 30px;
+    justify-content: center;
+}
+
+#Estrutura {
+    border: 1px solid;
+    flex-direction: row;
+    justify-content: center;
+}
